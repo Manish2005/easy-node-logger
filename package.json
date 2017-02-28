@@ -1,9 +1,20 @@
 {
   "name": "easy-node-logger",
+  "authors": [
+    "Manish Gharat <gharatmanish@gmail.com> (https://github.com/Manish2005)"
+  ],
   "decription": "Simple to-the-point logger utility for node.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "repository": "https://github.com/Manish2005/node-logger",
+  "keywords": [
+    "Node",
+    "Node JS",
+    "Logs",
+    "Logger",
+    "Error",
+    "Info"
+  ],
   "scripts": {
     "start": "node test-logger.js"
   }
