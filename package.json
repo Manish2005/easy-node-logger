@@ -1,8 +1,10 @@
 {
-  "name": "node-log",
+  "name": "easy-node-logger",
+  "decription": "Simple to-the-point logger utility for node.js",
   "version": "0.0.1",
   "private": false,
+  "repository": "https://github.com/Manish2005/node-logger",
   "scripts": {
-    "start": "node app.js"
+    "start": "node test-logger.js"
   }
 }
