@@ -1,5 +1,7 @@
 'use strict';
 const fs = require('fs');
+
+//Default configs
 let loggerConfig = {
     path: './logs',
     appendDateTime: false,
