@@ -4,9 +4,9 @@
     "Manish Gharat <gharatmanish@gmail.com> (https://github.com/Manish2005)"
   ],
   "decription": "Simple to-the-point logger utility for node.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
-  "repository": "https://github.com/Manish2005/node-logger",
+  "repository": "https://github.com/Manish2005/easy-node-logger",
   "keywords": [
     "Node",
     "Node JS",
