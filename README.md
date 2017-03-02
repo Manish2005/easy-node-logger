@@ -18,7 +18,7 @@ logger.init({path: './logs'}); //Please make sure this directory exists
 - Start Logging
 ```
 //Info Log
-logger.log('This is a Info log');
+logger.log('This is an Info log');
 
 //or
 logger.info('This is an Info log');
@@ -36,8 +36,8 @@ logger.init({
     format: 'json'
 });
 ```
-path: (String) Path if the directory where you want to store your logs
+path: (String) Path of the directory where you want to store your logs
 
-appendDateTime: (Boolean) If set true, appends timestamp to each log records
+appendDateTime: (Boolean) If set true, appends timestamp to each log record
 
 format: (String) Supported formats include 'json' and 'text'
